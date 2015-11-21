@@ -1,0 +1,1 @@
+/var/www/data_base/lang/jquery_only/read/php_proxy_get.php

@@ -1,0 +1,354 @@
+
+<h2>広報の音訳データを公開している区市町村</h2>
+<blockquote>
+	ここに掲載されていない自治体をご存知でしたら、
+	ツイッターの @ekzemplaro までご連絡下さい。<p />
+</blockquote>
+<blockquote>
+Daisy 形式<p />
+<blockquote>
+	<a href=" http://www32.tok2.com/home2/bokunaoki/shimaroudoku_groop/leading/daisy2011.html">
+		三重県志摩市</a><p />
+
+	<a href="http://www.city-yanai.jp/siyakusyo/koenokoho/koenokoho.top.html">
+		山口県柳井市</a><p />
+
+</blockquote>
+
+MP3 をzipで圧縮<p />
+<blockquote>
+	<a href="http://www.willcom.jp/daisy-shiso/diarypro/diary.cgi">
+		兵庫県宍粟市</a><p />
+</blockquote>
+
+MP3 形式<p />
+<blockquote>
+
+	北海道
+	<a href="http://www.city.otaru.lg.jp/simin/koho/koho_otaru/koho_dl23/">
+	小樽市</a><p />
+
+	青森県
+	<a href="http://www.city.hachinohe.aomori.jp/index.cfm/13,0,27,252,html">
+		八戸市</a><p />
+
+	宮城県
+	<a href="http://www.city.tome.miyagi.jp/koeno-kouhou/koeno-koho18.html">
+		登米市</a><p />
+
+	福島県
+	<a href="http://www.city.fukushima.fukushima.jp/kouhoushi/koe-shisei/index.html">
+		福島市</a>
+	<a href="http://www.city.aizuwakamatsu.fukushima.jp/ja/gikai/kohogikai/voice.htm">
+		会津若松市</a><p />
+		
+	茨城県
+	<a href="http://www.city.tsuchiura.lg.jp/index.php?code=1880">
+		土浦市</a>
+
+	<a href="http://www.city.inashiki.lg.jp/index.php?code=751">
+		稲敷市</a><p />
+
+	栃木県
+	<a href="http://www.city.shimotsuke.lg.jp/hp/menu000008400/hpg000008308.htm">
+		下野市</a><p />
+
+
+	埼玉県
+	<a href="http://www.city.hanyu.lg.jp/kurashi/madoguchi/kikaku/03_city/07_kokuti/voice_koho/voice_koho.html">
+		羽生市</a >
+
+	<a href="http://www.city.misato.lg.jp/dd.aspx?menuid=4222">
+		三郷市</a >
+
+	<a href="http://www.town.saitama-miyoshi.lg.jp/town/oshirase/voice/">
+		三芳町</a >
+
+	<a href="http://www.city.fujimi.saitama.jp/40shisei/60kankobutsu/01koho/2010-0612-0946-127.html">
+		富士見市</a >
+
+	<a href="http://www.city.shiki.lg.jp/37,0,145,570.html">
+		志木市</a >
+
+	<a href="http://www.city.wako.lg.jp/home/busho/_5711/_5734/_10668/_10106.html">
+		和光市</a >
+
+	<a href="http://www.city.honjo.lg.jp/kouhou_honjo/koenokouhou/koenokouhou_h23.html">
+		本庄市</a ><p />
+
+	東京都
+	<a href="http://www.city.shinjuku.lg.jp/kohoshinjuku/koho_20111215index.html">
+		新宿区</a>
+
+	<a href="http://www.city.koto.lg.jp/profile/kuho/64279/64280.html">
+		江東区</a>
+
+	<a href="http://www.city.toshima.lg.jp/koho/21934/index.html">
+		豊島区</a>
+
+	<a href="http://www2.city.suginami.tokyo.jp/library/library.asp?genre=4P">
+		杉並区</a>
+
+	<a href="http://www.city.ota.tokyo.jp/kuho_onsei/index.html">
+		大田区</a>
+
+	<a href="http://www.city.meguro.tokyo.jp/gyosei/koho/megurokuho/kuho_onsei/index.html">
+		目黒区</a>
+
+	<a href="http://www.city.kiyose.lg.jp/hp/page000004500/hpg000004455.htm">
+		清瀬市</a>
+
+	<a href="http://www.city.hachioji.tokyo.jp/seisaku/joho/24504/024662.html">
+		八王子市</a><p />
+
+	神奈川県
+	<a href="http://www.city.yokohama.lg.jp/sakae/guide/kouho/kuban/">
+		横浜市栄区</a>
+
+	<a href="http://www.city.fujisawa.kanagawa.jp/kouhou/podcast.shtml">
+		藤沢市</a>
+
+	<a href="http://www.city.zushi.kanagawa.jp/syokan/kouhou/kouhouzushi/sound/voicekouhou.htm">
+		逗子市</a >
+
+	<a href="http://www.city.ebina.kanagawa.jp/www/genre/0000000000000/1000000000545/index.html">
+		海老名市</a >
+
+	<a href="http://www.city.zama.kanagawa.jp/www/genre/0000000000000/1000000000055/index.html">
+		座間市</a >
+
+	<a href="http://navi.city.hadano.kanagawa.jp/kouhou/voice/">
+		秦野市</a ><p />
+
+	静岡県
+	<a href="http://japan.nagaizumi.org/koe-kouhou/">
+		長泉町</a>
+
+	<a href="http://www.city.mishima.shizuoka.jp/kouhou/koekouhouhist2011.html">
+		三島市</a>
+
+	<a href="http://www.city.fuji.shizuoka.jp/hp/menu000000100/hpg000000059.htm">
+		富士市</a>
+
+	<a href="http://www.city.fujinomiya.shizuoka.jp/koho/ko-fu/index.htm">
+		富士宮市</a>
+
+	<a href="http://www.city.shimada.shizuoka.jp/fukusi/koenokouhou/koenokouhou.jsp">
+		島田市</a>
+
+	<a href="http://www.town.morimachi.shizuoka.jp/news/kouhou_index.html">
+		森町</a>
+
+	<a href="http://www.city.iwata.shizuoka.jp/shimin/kouhou/koenokouhou/index.php">
+		磐田市</a><p />
+
+	石川県
+	<a href="www.city.komatsu.lg.jp/kouhou/kohokomatsu/kohokomatsudownload.html">
+		小松市</a><p />
+
+	福井県
+	<a href="http://www.city.sabae.fukui.jp/pagelist.html?mp=3">
+		鯖江市</a><p />
+
+	愛知県
+	<a href="http://www.town.oguchi.aichi.jp/jouhou/kouhou/koenokouhou.html">
+		大口町</a>
+
+	<a href="http://www.city.anjo.aichi.jp/shisei/koho/koe/index.html">
+		安城市</a>
+
+	<a href="http://www.city.owariasahi.lg.jp/c_navi/sosiki/joho/kouhou/v_kouhou.html">
+		尾張旭市</a>
+
+	<a href="http://www.city.kitanagoya.lg.jp/profile/soshiki/kikaku/voice/">
+		北名古屋市</a>
+
+	<a href="http://www.city.ichinomiya.aichi.jp/division/hishokoho/koe-koho/index.html">
+		一宮市</a><p />
+
+	岐阜県
+	<a href="http://www.city.toki.lg.jp/wcore/index.htm">
+		土岐市</a>
+
+	<a href="http://www.hida.jp/kouhoump3/index.html">
+		高山市</a><p />
+
+	奈良県
+	<a href="http://www.city.sakurai.nara.jp/news/index.html">
+		桜井市</a><p />
+
+
+	和歌山県
+	<a href="http://www.shirahama-syakyo.jp/kouhouShirahama/index.html">
+		白浜町</a>
+
+	<a href="http://www.city.iwade.lg.jp/ja/kouhou/799-voice.html">
+		岩出市</a>
+
+	<a href="http://www.city.hashimoto.wakayama.jp/cityhall/planning/private_secretary/webpr.html">
+		橋本市</a>
+
+
+	<a href="http://www.city.tanabe.lg.jp/kouhou/onsei/index.html">
+		田辺市</a><p />
+
+	大阪府
+	<a href="http://www.city.osaka.lg.jp/ikuno/page/0000024048.html">
+		大阪市生野区</a>
+
+	<a href="http://www.city.ibaraki.osaka.jp/koho/koe/koe/index.html">
+		茨木市</ a>
+
+	<a href="http://www.city.katano.osaka.jp/koho/koeno_koho.html">
+		交野市</a>
+
+	<a href="http://www.city.kawachinagano.lg.jp/kakuka/shicyou/kouhoukoucyou/gyoumu/koeno_kouhou/index.html">
+		河内長野市</a>
+
+	<a href="http://www.city.hirakata.osaka.jp/freepage/gyousei/kouhou/onsei/index.htm">
+		枚方市</a>
+
+	<a href="http://www.city.minoh.lg.jp/shisei/kouhou/kouhoushi/index.html">
+		箕面市</a>
+
+	<a href="http://www.city.ikeda.osaka.jp/kouhou_ikeda/kouhou_dl/kouhou_onsei/index.html">
+		池田市</a>
+
+	<a href="http://www.city.daito.lg.jp/kouhoudaito/1268209510713.html">
+		大東市</a>
+
+	<a href="http://www.city.izumisano.lg.jp/shiho/koenoshiho/saishingo/spt.html">
+		泉佐野市</a><p />
+
+	兵庫県
+	<a href="http://www.city.awaji.hyogo.jp/sec/jouhou/aitv/sound1110_79.html">
+		淡路市</a><p />
+
+	鳥取県
+	<a href="http://www.e-hokuei.net/category_lst.php?sid=2949&listmode=">
+		北栄町</a><p />
+		
+	岡山県
+	<a href="http://www.city.kurashiki.okayama.jp/dd.aspx?menuid=3656">
+		倉敷市</a>
+		
+	<a href="http://www.city.kasaoka.okayama.jp/soshiki/1/koekouhou23.html">
+		笠岡市</a><p />
+		
+	広島県
+	<a href="http://www.city.hiroshima.lg.jp/index2.html">
+		広島市</a>
+
+	<a href="http://www.city.mihara.hiroshima.jp/shisei/koho/index.html">
+		三原市</a><p />
+
+	山口県
+	<a href="http://www.city.kudamatsu.lg.jp/kouhou/soumu/kouhou/koenokouho8.html">
+		下松市</a>
+
+	<a href="http://www.city.shunan.lg.jp/section/kohojoho/info/index.jsp">
+		周南市</a>
+
+	<a href="http://www.city.hikari.lg.jp/public/public.html">
+		光市</a><p />
+
+	島根県
+	<a href="http://www.town.hikawa.lg.jp/www/contents/1092035354914/index.html">
+		斐川町</a><p />
+
+	徳島県
+	<a href="http://www.city.naruto.tokushima.jp/koho/voice/index.html">
+		鳴門市</a><p />
+
+	愛媛県
+	<a href="http://www.city.yawatahama.ehime.jp/kouhou/koe201111.htm">
+		八幡浜市</a><p />
+
+	長崎県
+	<a href="http://www.city.iki.nagasaki.jp/modules/policy/index.php?cat_id=40">
+		壱岐市</a><p />
+
+	大分県
+	<a href="http://www.city.beppu.oita.jp/03gyosei/kouhou/koeno-sihou/index.html">
+		別府市</a>
+
+	<a href="http://www.city-nakatsu.jp/sihou/">
+		中津市</a><p />
+
+	沖縄県
+	<a href="http://www.city.urasoe.lg.jp/article.php/s20111201113344921">
+	浦添市</a><p />
+
+
+</blockquote>
+
+WMA 形式<p />
+<blockquote>
+	茨木県
+	<a href="http://www.city.tsukubamirai.lg.jp/kouhou/onsei/">
+		つくばみらい市</a><p />
+
+	愛知県
+	<a href="http://www.city.nishio.aichi.jp/index.cfm/6,18616,74,562,html">
+		西尾市</a><p />
+
+	愛媛県
+	<a href="http://www.city.niihama.lg.jp/soshiki/detail.php?lif_id=15663">
+		新居浜市</a><p />
+
+	熊本県
+	<a href="http://www.town.ozu.kumamoto.jp/view.php?pageId=5350">
+		大津町</a><p />
+
+</blockquote>
+
+WAV 形式<p />
+<blockquote>
+	北海道
+	<a href="http://www2.incomdate.jp/voice/">
+		伊達市</a><p />
+
+
+	富山県
+	<a href="http://www.city.imizu.toyama.jp/guide/svGuideDtl.aspx?servno=3795">
+		射水市</a><p />
+
+
+</blockquote>
+
+WMV 形式<p />
+<blockquote>
+
+	石川県
+	<a href="http://nono1.jp/modules/tinyd4/">
+		野々市市</a><p />
+
+</blockquote>
+
+RM 形式<p />
+<blockquote>
+	宮城県
+	<a href="http://www.shibata-index.net/library/sound/kouhou.html">
+		柴田町</a><p />
+</blockquote>
+
+
+ASX 形式<p />
+<blockquote>
+	大阪府
+
+	<a href="http://www.webwebradio.city.tondabayashi.osaka.jp/koho/index.html">
+		富田林市</a>
+
+	<a href="http://www.city.takatsuki.osaka.jp/multimedia/koe.html">
+		高槻市</a><p />
+
+</blockquote>
+iTunes 形式<p />
+<blockquote>
+	福岡県
+	<a href="http://itunes.apple.com/jp/podcast/id362449989">
+                宮若市</a><p />
+</blockquote>
+
+</blockquote>
